@@ -17,6 +17,12 @@ A full-stack, multi-user platform that uses **Google Gemini's native multimodal 
 
 ---
 
+### 🖼️ Dashboard 
+
+![Dashboard](screenshot/dashboard.png)
+
+---
+
 ### 📤 Upload Invoice
 
 ![Upload Invoice](screenshot/upload.png)
