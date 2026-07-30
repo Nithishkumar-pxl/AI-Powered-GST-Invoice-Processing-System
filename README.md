@@ -3,6 +3,53 @@
 A full-stack, multi-user platform that uses **Google Gemini's native multimodal capabilities** to extract structured GST invoice data from PDFs and images — with zero OCR dependencies.
 
 ---
+## 📸 Project Screenshots
+
+### 📝 Registration Page
+
+![Registration Page](screenshots/registration.png)
+
+---
+
+### 🔐 Sign In Page
+
+![Sign In Page](screenshots/signin.png)
+
+---
+
+### 📤 Upload Invoice
+
+![Upload Invoice](screenshots/upload-invoice.png)
+
+---
+
+### 🤖 Invoice Data Extraction
+
+![Invoice Extraction](screenshots/extraction.png)
+
+---
+
+### 📥 Download JSON (Example 1)
+
+![Download JSON 1](screenshots/download-json-1.png)
+
+---
+
+### 📥 Download JSON (Example 2)
+
+![Download JSON 2](screenshots/download-json-2.png)
+
+---
+
+### 📜 Invoice History
+
+![Invoice History](screenshots/history.png)
+
+---
+
+### 👨‍💼 Admin Dashboard
+
+![Admin Dashboard](screenshots/admin.png)
 
 ## 🏗️ Architecture Overview
 
@@ -114,13 +161,6 @@ npm start
 App runs at **http://localhost:3000**
 
 ---
-
-## 🔐 Default Admin Credentials
-
-```
-Email:    admin@gstextract.com
-Password: Admin@123
-```
 
 **Change this immediately in production.**
 
