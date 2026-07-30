@@ -7,49 +7,49 @@ A full-stack, multi-user platform that uses **Google Gemini's native multimodal 
 
 ### 📝 Registration Page
 
-![Registration Page](screenshots/registration.png)
+![Registration Page](screenshot/registration.png)
 
 ---
 
 ### 🔐 Sign In Page
 
-![Sign In Page](screenshots/signin.png)
+![Sign In Page](screenshot/signin.png)
 
 ---
 
 ### 📤 Upload Invoice
 
-![Upload Invoice](screenshots/upload-invoice.png)
+![Upload Invoice](screenshot/upload.png)
 
 ---
 
 ### 🤖 Invoice Data Extraction
 
-![Invoice Extraction](screenshots/extraction.png)
+![Invoice Extraction](screenshot/extraction.png)
 
 ---
 
 ### 📥 Download JSON (Example 1)
 
-![Download JSON 1](screenshots/download-json-1.png)
+![Download JSON 1](screenshot/download-json-1.png)
 
 ---
 
 ### 📥 Download JSON (Example 2)
 
-![Download JSON 2](screenshots/download-json-2.png)
+![Download JSON 2](screenshot/download-json-2.png)
 
 ---
 
 ### 📜 Invoice History
 
-![Invoice History](screenshots/history.png)
+![Invoice History](screenshot/history.png)
 
 ---
 
 ### 👨‍💼 Admin Dashboard
 
-![Admin Dashboard](screenshots/admin.png)
+![Admin Dashboard](screenshot/admin.png)
 
 ## 🏗️ Architecture Overview
 
